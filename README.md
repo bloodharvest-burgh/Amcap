@@ -222,4 +222,4 @@ AMCap is available as a **full free version**, with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-25 00:51:23 UTC
+**Last updated:** 2026-10-25 05:43:21 UTC
